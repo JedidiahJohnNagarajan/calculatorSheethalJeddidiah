@@ -22,5 +22,5 @@ class Calculator:
         return self.result
 
     def multiply(self, a, b):
-        self.result = multiplication(a, b)
+        self.result = multiplicate(a, b)
         return self.result
